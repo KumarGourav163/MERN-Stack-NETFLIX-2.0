@@ -15,7 +15,7 @@ Join us on Netflix 2.0 and elevate your streaming experience! 🌟🍕📽️ <b
 2. It can not be not able to live because in this project the MongoDB database is used, so it can not be live. <br><br>
 
 # To run this project run this code :- <br>
-yarn start <br><br>
+For frontend and backend also :- yarn start <br><br>
 
 # There are some Screenshots :- <br>
 ![Screenshot 2024-06-22 230905](https://github.com/KumarGourav163/MERN-Stack-NETFLIX-2.0/assets/150587805/1c06af41-442a-4649-a868-a76d53a0e7f1)
